@@ -1,82 +1,93 @@
-						Proiect Unreal Engine
+Dungeon of Souls
+Project Unreal Engine
 
+Table of Contents
+Project Overview
+Game Title
+Game Context
+Category
+Game Rules
+User Interaction
+Game Scenarios
+User Categories
+Key Phrases
+Similar Games
+Project Overview
+This GitHub repository contains information about the Unreal Engine project "Dungeon of Souls." The project details, game description, and user interaction elements are provided in this README.
 
-Titlu: Dungeon of souls
+Game Title
+Dungeon of Souls
 
-Context: Jocul  va presupune terminarea fiecărui nivel că într-o arena unde main character este un trimis al Bisericii care trebuie să exorcizeze oameni posedați, foști preoți, demoni. Aceasta actiune presupune lupta cu niște inamici(la un anumit număr de nivele apar inamici de tip boss cu caracteristici (attack, def) mai ridicate) iar pentru fiecare nivel terminat primești niște merite cu care poți sa ti maresti skill-urile caracterului, în același timp, sa cumparam extra life etc. .
+Game Context
+In this game, players take on the role of a Church envoy tasked with exorcising possessed individuals, former priests, and demons in a series of arena-style levels. Players will engage in combat with various enemies, including boss-level enemies with higher attack and defense characteristics in later levels. Completing levels rewards players with merits, which can be used to enhance the character's skills and acquire extra lives.
 
-Categorie: Adventure
+Category
+Adventure
 
-Reguli de joc: 
-Playerul castiga daca termina arena și pierde dacă moare într un nivel
-	Personajul principal trebuie sa gaseasca iesirie dintr-un nivel prin explorarea labirintului 
+Game Rules
+The player wins by completing an arena level and loses if they die during a level.
+The main character must navigate through a labyrinth to find the exit from each level.
+User Interaction
+Menu Options
+Start: Begin the game and embark on the exorcism adventure.
+Exit: Close the game and return to the operating system's main screen.
+In-Game Interface
+Movement: Players can control the main character's movement using keyboard keys or joystick controls to explore levels.
+Combat: Combat interactions are initiated when the player is within the range of an enemy.
+Special Abilities: Characters have special abilities that the user can activate to face stronger enemies or solve level-specific puzzles.
+Earning Merits: Upon completing each level, players receive merits or points that can be used to improve their character's abilities or purchase extra lives.
+Game Scenarios
+Starting the Game: The user opens the game and selects the "Start" option from the main menu. They are then immersed in the game world and begin their first exorcism mission.
+Combat with an Enemy: During gameplay, the user encounters an enemy and engages in combat. The player uses their character's abilities to defeat the enemy.
+Character Improvement: After completing a level, the user receives merits, which they use to enhance their character's abilities and acquire extra lives.
+User Categories
+The game "Dungeon of Souls" is suitable for a diverse range of players, with a particular appeal to:
 
-Stabilirea interacțiunii cu utilizatorul: acesta se va putea mișca în harta cu main character, plimbandu-se și luptand cu adversarii
-Primul lucru pe care-l vede utilizatorul va fi un meniu de start, exit. 
-Stabilirea Interacțiunii cu Utilizatorul:
-
-Interacțiunea cu utilizatorul în jocul "Dungeon of Souls" poate fi descrisă astfel:
-
-Meniu de Start: La deschiderea jocului, utilizatorul va fi întâmpinat cu un meniu de start, care va conține următoarele opțiuni:
-
-"Start" - Această opțiune îi permite utilizatorului să înceapă jocul și să între în aventura de exorcizare.
-"Exit" - Opțiunea "Exit" îi permite utilizatorului să închidă jocul și să revină la ecranul principal al sistemului de operare.
-Interfața de Joc: După ce alege să înceapă jocul, utilizatorul intră în lumea jocului și va avea la dispoziție următoarele acțiuni:
-
-Mișcare: Utilizatorul poate controla personajul principal (trimisul Bisericii) folosind taste sau joystick-urile, pentru a se deplasa prin nivel și a explora.
-Luptă: Utilizatorul poate folosi butoane sau comenzi specifice pentru a ataca inamicii atunci când se află în raza de luptă.
-Abilități Speciale: Personajul poate avea abilități speciale pe care utilizatorul le poate activa pentru a face față inamicilor mai puternici sau pentru a rezolva puzzle-uri specifice nivelului.
-Obținerea Meritelor: La finalul fiecărui nivel, utilizatorul primește merite sau puncte pe care le poate folosi pentru a îmbunătăți abilitățile personajului său pentru a cumpăra extra vieți.
-Scenarii de Utilizare:
-
-Scenariu 1 (Începutul Jocului): Utilizatorul deschide jocul și alege opțiunea "Start" din meniul principal. Apoi, se află în lumea jocului și începe prima misiune de exorcizare.
-Scenariu 2 (Lupta cu un Inamic): În timpul jocului, utilizatorul se întâlnește cu un inamic și începe o luptă. Utilizatorul folosește abilitățile personajului pentru a învinge inamicul.
-Scenariu 3 (Îmbunătățirea Caracterului): După finalizarea unui nivel, utilizatorul primește merite pe care le folosește pentru a îmbunătăți abilitățile personajului său pentru a cumpăra extra vieți.
-Identificarea Categoriei de Utilizatori:
-Jocul "Dungeon of Souls" este potrivit pentru o gamă variată de jucători, dar se adresează în special următoarei categorii de utilizatori:
-
-Vârstă: Jocul poate fi potrivit pentru adolescenți și adulți, deoarece poate conține elemente de luptă și tematici religioase.
-Personalitate: Potrivit pentru jucători care apreciază jocurile de aventuri și acțiune, dar și pentru cei care sunt atrași de tematici supranaturale sau religioase.
-Interese: Potrivit pentru cei interesați de jocuri de acțiune, aventuri și dezvoltarea personajelor.
-Cadru Social: Nu se limitează la un cadru social specific, ci poate fi jucat de către jucători de pretutindeni.
-
-Cuvinte/Sintagme Cheie:
+Age: Adolescents and adults due to potential combat elements and religious themes.
+Personality: Players who enjoy action-adventure games, as well as those interested in supernatural or religious themes.
+Interests: Those interested in action, adventure, and character development in games.
+Social Setting: It is not limited to a specific social setting and can be played by gamers from all backgrounds.
+Key Phrases
 Exorcism
 Arena
-Inamici
-Nivele
-Merite
-Extra vieți
+Enemies
+Levels
+Merits
+Extra lives
+Similar Games
+For reference and insights, here are some similar games:
 
-Jocuri Similare (Referințe pentru Observații):
+Game Title: "Dark Souls"
 
-Nume Joc: "Dark Souls"
-Aspecte Pozitive:
-Sistemul de luptă complex și provocator.
-Atmosfera întunecată și misterioasă.
-Aspecte Negative:
-Dificultatea ridicată poate fi descurajanta pentru unii jucători.
-Povestea poate fi puțin fragmentată.
+Positive Aspects:
+Complex and challenging combat system.
+Dark and mysterious atmosphere.
+Negative Aspects:
+High difficulty can be discouraging for some players.
+The story may feel fragmented.
+Game Title: "Diablo III"
 
-Nume Joc: "Diablo III"
-Aspecte Pozitive:
-Gameplay-ul de acțiune și looting este captivant.
-Abilitățile și dezvoltarea personajelor sunt variate și distractive.
-Aspecte Negative:
-Povestea poate părea un pic repetitivă.
-Dependentă de loot poate deveni frustrantă.
+Positive Aspects:
+Engaging action and looting gameplay.
+Diverse and enjoyable character skills and development.
+Negative Aspects:
+The story may seem somewhat repetitive.
+Dependency on loot can become frustrating.
+Game Title: "The Witcher 3: Wild Hunt"
 
-Nume Joc: "The Witcher 3: Wild Hunt"
-Aspecte Pozitive:
-O lume vastă și deschisă pentru explorare.
-Povestea captivantă și dezvoltarea personajelor.
-Aspecte Negative:
-Pentru unii jucători, jocul poate părea copleșitor din cauza dimensiunii sale.
+Positive Aspects:
+Vast open world for exploration.
+Captivating story and character development.
+Negative Aspects:
+Some players may find the game overwhelming due to its size.
+Game Title: "Bloodborne"
 
-Nume Joc: "Bloodborne"
-Aspecte Pozitive:
-Atmosfera înfricoșătoare și înfruntarea cu monștrii.
-Sistemul de luptă rapid și provocator.
-Aspecte Negative:
-Dificultatea înaltă poate fi descurajanta pentru unii jucători.
-Povestea poate fi destul de enigmatică.
+Positive Aspects:
+Scary atmosphere and monster encounters.
+Fast-paced and challenging combat system.
+Negative Aspects:
+High difficulty can be discouraging for some players.
+The story can be quite enigmatic.
+
+
+
