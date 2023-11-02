@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/teomi/Documents/Unreal Projects/Dungeonofsouls/Content/floor.uasset",
+				"C:/Users/teomi/Documents/Unreal Projects/Dungeonofsouls/Content/Level1.umap",
+				"C:/Users/teomi/Documents/Unreal Projects/Dungeonofsouls/Content/d7045fq-000c3e37-9768-4444-9887-5a5061999766.uasset",
+				"C:/Users/teomi/Documents/Unreal Projects/Dungeonofsouls/Content/pexels-anni-roenkae-2832382.uasset",
+				"C:/Users/teomi/Documents/Unreal Projects/Dungeonofsouls/Content/d7045fq-000c3e37-9768-4444-9887-5a5061999766_Mat.uasset"
+			]
+		}
+	]
+}
