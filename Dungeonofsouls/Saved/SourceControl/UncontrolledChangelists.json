@@ -5,11 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/teomi/Documents/Unreal Projects/Dungeonofsouls/Content/floor.uasset",
-				"C:/Users/teomi/Documents/Unreal Projects/Dungeonofsouls/Content/Level1.umap",
-				"C:/Users/teomi/Documents/Unreal Projects/Dungeonofsouls/Content/d7045fq-000c3e37-9768-4444-9887-5a5061999766.uasset",
-				"C:/Users/teomi/Documents/Unreal Projects/Dungeonofsouls/Content/pexels-anni-roenkae-2832382.uasset",
-				"C:/Users/teomi/Documents/Unreal Projects/Dungeonofsouls/Content/d7045fq-000c3e37-9768-4444-9887-5a5061999766_Mat.uasset"
+				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/Level0.umap",
+				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/lava.uasset",
+				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/mteren.uasset",
+				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/7759268baebef8d8b258b96682fd2766.uasset",
+				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/istockphoto-1012404208-612x612.uasset",
+				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/istockphoto-661693926-612x612.uasset",
+				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/pmg.uasset",
+				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/fulger.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/BP_Thunder.uasset",
+				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/reflexie.uasset",
+				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/gradient.uasset",
+				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/metalic+reflexie.uasset",
+				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/lightning-collision-powerful-colored-lightnings-vector-29384653.uasset"
 			]
 		}
 	]
