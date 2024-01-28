@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Unreal-Engine/Dungeonofsouls/Content/Character/character.uasset",
 				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/Level0.umap",
 				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/lava.uasset",
@@ -14,7 +16,6 @@
 				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/istockphoto-661693926-612x612.uasset",
 				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/pmg.uasset",
 				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/fulger.uasset",
-				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/BP_Thunder.uasset",
 				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/reflexie.uasset",
 				"C:/Users/teomi/Desktop/Proiect Unreal Engine/Dungeonofsouls/Content/gradient.uasset",
